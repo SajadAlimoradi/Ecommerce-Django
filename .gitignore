@@ -108,3 +108,8 @@ logs/log/*.log
 media
 staticfiles
 static
+local_settings.py
+db.sqlite3
+media/
+.DS_Store
+migrations/
